@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Myfiles">
+        <file>CT.png</file>
+        <file>MRI.png</file>
+        <file>DCM.png</file>
+        <file>splash.png</file>
+    </qresource>
+</RCC>
